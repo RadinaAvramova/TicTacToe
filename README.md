@@ -1,2 +1,1 @@
-# TicTacToe
-TicTacToe
+# TicTacToe with React & TypeScript
